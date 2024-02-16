@@ -28,7 +28,7 @@
             <h1>Curriculum Vitae</h1>
         </header>
         <section>
-            <h2>Personal Information</h2>
+            <h2>Personal Informasi</h2>
             <p><strong>Nama:</strong> Rayza Indafri Yahya</p>
             <p><strong>Tempat/Tanggal Lahir:</strong> Medan, 08 juli 2005</p>
             <p><strong>Email:</strong> indafrireza@gmail.com</p>
