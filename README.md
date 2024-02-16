@@ -29,11 +29,11 @@
         </header>
         <section>
             <h2>Personal Information</h2>
-            <p><strong>Name:</strong> John Doe</p>
-            <p><strong>Date of Birth:</strong> January 1, 1990</p>
-            <p><strong>Email:</strong> johndoe@example.com</p>
-            <p><strong>Phone:</strong> +1 (123) 456-7890</p>
-            <p><strong>Address:</strong> 123 Main Street, City, Country</p>
+            <p><strong>Nama:</strong> Rayza Indafri Yahya</p>
+            <p><strong>Tempat/Tanggal Lahir:</strong> Medan, 08 juli 2005</p>
+            <p><strong>Email:</strong> indafrireza@gmail.com</p>
+            <p><strong>WA:</strong> 085270548411</p>
+            <p><strong>Alamat:</strong> MEDAN </p>
         </section>
         <section>
             <h2>Education</h2>
