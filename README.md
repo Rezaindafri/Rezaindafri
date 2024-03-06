@@ -37,15 +37,15 @@
         </section>
         <section>
             <h2>Education</h2>
-            <p><strong>Degree:</strong> Bachelor of Science in Computer Science</p>
-            <p><strong>Institution:</strong> University of Example</p>
-            <p><strong>Year:</strong> 2012-2016</p>
+            <p><strong>Degree:</strong> learninge</p>
+            <p><strong>Institution:</strong> University of sumatera utara</p>
+            <p><strong>Year:</strong> 2023-Now</p>
         </section>
         <section>
             <h2>Experience</h2>
-            <p><strong>Position:</strong> Software Engineer</p>
-            <p><strong>Company:</strong> Tech Solutions Inc.</p>
-            <p><strong>Duration:</strong> 2016-2022</p>
+            <p><strong>Position:</strong> Student</p>
+            <p><strong>Company:</strong> Universitas od Sumatera Utara</p>
+            <p><strong>Duration:</strong> 2023-Now</p>
             <p><strong>Responsibilities:</strong> Developed web applications using HTML, CSS, and JavaScript.</p>
         </section>
         <section>
