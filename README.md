@@ -30,10 +30,7 @@
         <section>
             <h2>Personal Informasi</h2>
             <p><strong>Nama:</strong> Rayza Indafri Yahya</p>
-            <p><strong>Tempat/Tanggal Lahir:</strong> Medan, 08 juli 2005</p>
             <p><strong>Email:</strong> indafrireza@gmail.com</p>
-            <p><strong>WA:</strong> 085270548411</p>
-            <p><strong>Alamat:</strong> MEDAN </p>
         </section>
         <section>
             <h2>Education</h2>
