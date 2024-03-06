@@ -37,14 +37,14 @@
         </section>
         <section>
             <h2>Education</h2>
-            <p><strong>Degree:</strong> learninge</p>
+            <p><strong>Degree:</strong> Undergraduate</p>
             <p><strong>Institution:</strong> University of sumatera utara</p>
             <p><strong>Year:</strong> 2023-Now</p>
         </section>
         <section>
             <h2>Experience</h2>
             <p><strong>Position:</strong> Student</p>
-            <p><strong>Company:</strong> Universitas od Sumatera Utara</p>
+            <p><strong>Company:</strong> Universitas of Sumatera Utara</p>
             <p><strong>Duration:</strong> 2023-Now</p>
             <p><strong>Responsibilities:</strong> Developed web applications using HTML, CSS, and JavaScript.</p>
         </section>
